@@ -1,0 +1,16 @@
+Media Queries
+-----------------------------------------------------------------------------
+/* Extra small devices (phones, less than 480px) */
+@media (max-width: 480px) { ... }
+
+/* Small devices (phones) */
+@media (min-width: 481px) and (max-width: 767px) { ... }
+
+/* Medium devices (tablets) */
+@media (min-width: 768px) and (max-width: 1024px) { ... }
+
+/* Large devices (desktops) */
+@media (min-width: 1025px) and (max-width: 1440px) { ... }
+
+/* Extra large devices */
+@media (min-width: 1441px) { ... }
